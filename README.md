@@ -1,0 +1,2 @@
+# Wiki
+comp journo project
